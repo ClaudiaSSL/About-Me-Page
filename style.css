@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+}
+
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+i{  
+    color:#0000ff;
+    font-size:24px !important;
+}
+  
+.content{
+    color:grey;
+}
+
+.name {
+    color: #0000ff;;
+}
+
+.black{
+    color: black;
+}
