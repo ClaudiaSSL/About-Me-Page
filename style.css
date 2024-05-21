@@ -34,7 +34,7 @@ i{
         padding: 70px;
     }
     i{
-        font-size: 55px;;
+        font-size: 55px !important;
     }
 
 }
